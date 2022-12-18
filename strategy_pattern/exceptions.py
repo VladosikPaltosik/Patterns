@@ -1,0 +1,2 @@
+class NotAllValuesAreInteger(BaseException):
+    pass
